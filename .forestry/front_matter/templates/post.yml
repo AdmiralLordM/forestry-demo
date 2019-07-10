@@ -38,3 +38,11 @@ fields:
   type: text
   hidden: true
   default: post
+- name: contentblock
+  type: blocks
+  label: contentblock
+  template_types:
+  - person
+  config:
+    min: 
+    max: 
